@@ -6,9 +6,9 @@ import random from "random";
 const path = "./data.json";
 const git = simpleGit();
 
+// Generate your dates using: https://lanceyrj.github.io/contirbute-calendar/
 const dates = [
-    '',
-    ''
+    // Paste your generated dates here
 ];
 
 const makeCommits = async () => {
