@@ -19,7 +19,7 @@ cd github-contribute
 2. Install dependencies
 
 ```bash
-npm install
+npm install jsonfile moment simple-git random
 ```
 
 3. Configure Git (if not already done)
